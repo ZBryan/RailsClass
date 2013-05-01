@@ -1,6 +1,19 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/zarchary2/mystuff/RailsClass/app/ticketee/app/models/user.rb": [
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null
+      ],
       "/Users/zarchary2/mystuff/RailsClass/app/ticketee/app/controllers/application_controller.rb": [
         1,
         1,
@@ -32,7 +45,7 @@
         1,
         null,
         1,
-        15,
+        17,
         null,
         null,
         1,
@@ -163,6 +176,6 @@
         null
       ]
     },
-    "timestamp": 1366605377
+    "timestamp": 1367377294
   }
 }
