@@ -1,4 +1,5 @@
 class ProjectsController < ApplicationController
+	before_filter :authorize_admin!, except: [:index, :show]
 	before_filter :find_project, only: [:show, :edit, :update, :destroy]
 	
 	def index
@@ -35,6 +36,10 @@ class ProjectsController < ApplicationController
 		end
 	end
 
+	def show
+		@project = Project.find(params[:id])
+	end
+	
 	def destroy
 		@project = Project.find(params[:id])
 		@project.destroy
@@ -42,9 +47,16 @@ class ProjectsController < ApplicationController
 		redirect_to projects_path
 	end
 
-	def show
-		@project = Project.find(params[:id])
-	end
+	private
+		def authorize_admin!
+  authenticate_user!
+  unless current_user.admin?
+    flash[:alert] = "You must be an admin to do that."
+    redirect_to root_path
+  end
+end
+
+
 
 	private
 		def find_project
@@ -55,4 +67,5 @@ class ProjectsController < ApplicationController
 			redirect_to projects_path
 		end
 
+		
 end
