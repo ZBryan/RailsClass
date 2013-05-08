@@ -3,7 +3,7 @@ require 'spec_helper'
 describe ProjectsController do
 
 	let(:user) { Factory(:confirmed_user) }
-	let(:project)	{ mock_model(project, id: 1) }
+	let(:project)	{ mock_model(Project, id: 1) }
 
 	context "standard users" do
 		before { sign_in(:user, user) }
