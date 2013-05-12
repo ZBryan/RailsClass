@@ -22,8 +22,8 @@
         1,
         null,
         1,
-        15,
-        15,
+        23,
+        23,
         6,
         6,
         null,
@@ -34,7 +34,7 @@
         1,
         null,
         1,
-        57,
+        132,
         null,
         null,
         1,
@@ -71,7 +71,24 @@
       ],
       "/Users/zarchary2/mystuff/RailsClass/app/ticketee/app/controllers/admin/users_controller.rb": [
         1,
+        null,
         1,
+        2,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        2,
+        2,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
         null,
         null
       ],
@@ -81,7 +98,7 @@
         1,
         null,
         1,
-        37,
+        41,
         null,
         null,
         1,
@@ -214,6 +231,6 @@
         null
       ]
     },
-    "timestamp": 1367985497
+    "timestamp": 1368332447
   }
 }
