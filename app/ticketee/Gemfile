@@ -11,6 +11,8 @@ gem 'pg'
 gem 'devise', '2.1.0'
 gem 'email_spec', '1.2.1'
 gem 'thin'
+gem 'spork'
+gem 'spork-rails'
 
 # Gems used only for assets and not required
 # in production environments by default.
