@@ -2,108 +2,108 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05629816-10bd-4459-8b82-371f6828f24e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/images/rails.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/javascripts/admin/permissions.js.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/javascripts/admin/states.js.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/javascripts/admin/users.js.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/javascripts/application.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/javascripts/comments.js.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/javascripts/files.js.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/javascripts/projects.js.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/javascripts/tags.js.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/javascripts/tickets.js.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/javascripts/users.js.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/stylesheets/admin/permissions.css.scss" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/stylesheets/admin/states.css.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/stylesheets/admin/users.css.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/stylesheets/application.css.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/stylesheets/comments.css.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/stylesheets/files.css.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/stylesheets/projects.css.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/stylesheets/tags.css.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/stylesheets/tickets.css.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/stylesheets/users.css.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/admin/base_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/admin/permissions_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/admin/states_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/admin/users_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/api/v1/base_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/api/v2/projects_controller.rb" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/api/v1/projects_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/stylesheets/tags.css.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/admin/base_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../models/comment.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../helpers/comments_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/javascripts/application.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/projects_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/admin/users/_form.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../models/project.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/javascripts/files.js.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/users_controller.rb" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/api/v1/tickets_controller.rb" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/api/v2/base_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/api/v2/projects_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/api/v2/tickets_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/application_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/comments_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/files_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/projects_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/registrations_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/tags_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/tickets_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/users_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../helpers/admin/permissions_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../helpers/admin/states_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../helpers/admin/users_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../helpers/application_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../helpers/comments_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../helpers/files_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../helpers/projects_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../helpers/tags_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../helpers/tickets_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../helpers/users_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../mailers/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../mailers/notifier.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../mailers/receiver.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../models/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../models/ability.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../models/asset.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../models/comment.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../models/permission.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../models/project.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../models/state.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../models/tag.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../models/ticket.rb" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../models/user.rb" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../observers/comment_observer.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/test.sqlite3-journal" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spec/models/user_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/admin/base/index.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/admin/permissions/index.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/admin/states/_form.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/admin/states/index.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/admin/states/new.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/admin/users/_form.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/admin/users/edit.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/admin/users/index.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/admin/users/new.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/admin/users/show.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/comments/_comment.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/comments/_form.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/files/_form.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/layouts/application.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/notifier/comment_updated.text.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/projects/_form.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/projects/edit.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/projects/index.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/projects/new.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/projects/show.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/states/_state.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/tags/_form.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/tags/_tag.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/tags/remove.js.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/tickets/_form.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../helpers/admin/permissions_helper.rb" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../views/tickets/edit.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/tickets/new.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/tickets/show.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/javascripts/admin/users.js.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/api/v2/tickets_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/comments/_form.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../models/asset.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/admin/permissions_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/projects/edit.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/admin/states_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/javascripts/tags.js.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/stylesheets/admin/users.css.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../models/state.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mailers/notifier.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/comments_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/application_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/admin/users/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/projects/show.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/javascripts/admin/permissions.js.coffee" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../views/users/confirmation.html.erb" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coverage/.last_run.json" afterPath="$PROJECT_DIR$/coverage/.last_run.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/admin/states/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../helpers/admin/users_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../helpers/files_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/stylesheets/files.css.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/admin/base/index.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/tags/remove.js.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/stylesheets/comments.css.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spec/models/user_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/projects/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/projects/_form.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/states/_state.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../models/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../models/ticket.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/stylesheets/projects.css.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/files_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/files/_form.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/db/test.sqlite3-journal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/stylesheets/tickets.css.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/stylesheets/admin/permissions.css.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/admin/users/edit.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../models/ability.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/admin/states/_form.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../models/permission.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/tags_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../helpers/projects_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/tickets/show.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/notifier/comment_updated.text.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../helpers/tags_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/stylesheets/application.css.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../helpers/admin/states_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/stylesheets/users.css.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mailers/receiver.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/tags/_form.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/admin/states/index.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/javascripts/tickets.js.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/registrations_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/tickets_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/comments/_comment.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/images/rails.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/javascripts/admin/states.js.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mailers/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/projects/index.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../helpers/users_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../models/tag.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/admin/users/index.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../helpers/tickets_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/tickets/_form.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../helpers/application_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/admin/permissions/index.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/javascripts/users.js.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/tags/_tag.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/admin/users/show.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/api/v1/base_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../controllers/admin/users_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/layouts/application.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../views/tickets/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/javascripts/comments.js.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../assets/javascripts/projects.js.coffee" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coverage/.resultset.json" afterPath="$PROJECT_DIR$/coverage/.resultset.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/admin/users/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/admin/users/_form.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/integration/admin/creating_users_spec.rb" afterPath="$PROJECT_DIR$/spec/integration/admin/creating_users_spec.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coverage/.last_run.json" afterPath="$PROJECT_DIR$/coverage/.last_run.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/admin/users_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/admin/users_controller.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/admin/users/index.html.erb" afterPath="$PROJECT_DIR$/app/views/admin/users/index.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coverage/index.html" afterPath="$PROJECT_DIR$/coverage/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/integration/admin/creating_users_spec.rb" afterPath="$PROJECT_DIR$/spec/integration/admin/creating_users_spec.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/user.rb" afterPath="$PROJECT_DIR$/app/models/user.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/admin/users_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/admin/users_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/admin/users/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/admin/users/_form.html.erb" />
     </list>
     <ignored path="ticketee.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -210,6 +210,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager" selected="Rails.Development: ticketee">
     <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
@@ -400,27 +401,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="22" width="1420" height="860" extended-state="1" />
+    <frame x="10" y="22" width="1420" height="860" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32896462" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.6710354" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32896462" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.6710354" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
