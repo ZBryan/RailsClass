@@ -305,6 +305,7 @@
         null,
         1,
         5,
+        20,
         null,
         null,
         1,
@@ -386,8 +387,9 @@
         1,
         null,
         1,
-        1,
         null,
+        1,
+        1,
         null
       ],
       "/Users/zarchary2/mystuff/RailsClass/app/ticketee/app/controllers/users_controller.rb": [
@@ -410,8 +412,14 @@
         null,
         null,
         null
+      ],
+      "/Users/zarchary2/mystuff/RailsClass/app/ticketee/app/models/asset.rb": [
+        1,
+        1,
+        1,
+        null
       ]
     },
-    "timestamp": 1368920509
+    "timestamp": 1368924787
   }
 }
