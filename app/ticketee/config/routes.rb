@@ -10,6 +10,8 @@ Ticketee::Application.routes.draw do
       to: 'admin/permissions#update',
       as: :update_user_permissions    
 
+  resources :files    
+
   root :to => "projects#index"
   resources :projects do
     resources :tickets
